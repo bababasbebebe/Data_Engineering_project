@@ -1,0 +1,200 @@
+[2025-06-17T04:07:43.896+0300] {processor.py:157} INFO - Started process (PID=18692) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:07:43.897+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-06-17T04:07:43.900+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:07:43.899+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:07:43.920+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:07:43.919+0300] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-06-17T04:07:43.921+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:07:43.959+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:07:43.959+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:07:43.981+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:07:43.981+0300] {dag.py:3696} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-06-17T04:07:44.035+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.145 seconds
+[2025-06-17T04:08:44.355+0300] {processor.py:157} INFO - Started process (PID=18772) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:08:44.359+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-06-17T04:08:44.360+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:08:44.360+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:08:44.374+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:08:44.374+0300] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-06-17T04:08:44.375+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:08:44.405+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:08:44.405+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:08:44.423+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:08:44.423+0300] {dag.py:3696} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-06-17T04:08:44.460+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.116 seconds
+[2025-06-17T04:09:39.103+0300] {processor.py:157} INFO - Started process (PID=18828) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:09:39.106+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-06-17T04:09:39.110+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:09:39.108+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:09:39.132+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:09:39.131+0300] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-06-17T04:09:39.134+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:09:39.174+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:09:39.174+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:09:39.199+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:09:39.198+0300] {dag.py:3696} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-06-17T04:09:39.250+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.155 seconds
+[2025-06-17T04:10:38.324+0300] {processor.py:157} INFO - Started process (PID=18884) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:10:38.334+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-06-17T04:10:38.336+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:10:38.335+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:10:38.357+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:10:38.357+0300] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-06-17T04:10:38.358+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:10:38.398+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:10:38.397+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:10:38.424+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:10:38.424+0300] {dag.py:3696} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-06-17T04:10:38.475+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.157 seconds
+[2025-06-17T04:11:34.112+0300] {processor.py:157} INFO - Started process (PID=18933) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:11:34.116+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-06-17T04:11:34.119+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:11:34.118+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:11:34.141+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:11:34.141+0300] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-06-17T04:11:34.142+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:11:34.184+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:11:34.183+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:11:34.209+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:11:34.208+0300] {dag.py:3696} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-06-17T04:11:34.257+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.153 seconds
+[2025-06-17T04:12:39.649+0300] {processor.py:157} INFO - Started process (PID=19028) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:12:39.652+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-06-17T04:12:39.655+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:12:39.654+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:12:39.685+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:12:39.685+0300] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-06-17T04:12:39.687+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:12:39.747+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:12:39.747+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:12:39.785+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:12:39.785+0300] {dag.py:3696} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-06-17T04:12:39.850+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.213 seconds
+[2025-06-17T04:13:35.599+0300] {processor.py:157} INFO - Started process (PID=19085) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:13:35.603+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-06-17T04:13:35.604+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:13:35.604+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:13:35.622+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:13:35.622+0300] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-06-17T04:13:35.623+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:13:35.650+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:13:35.649+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:13:35.667+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:13:35.667+0300] {dag.py:3696} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-06-17T04:13:35.701+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.110 seconds
+[2025-06-17T04:14:34.627+0300] {processor.py:157} INFO - Started process (PID=19142) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:14:34.629+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-06-17T04:14:34.631+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:14:34.630+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:14:34.650+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:14:34.649+0300] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-06-17T04:14:34.651+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:14:34.685+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:14:34.684+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:14:34.706+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:14:34.705+0300] {dag.py:3696} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-06-17T04:14:34.746+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.128 seconds
+[2025-06-17T04:15:36.051+0300] {processor.py:157} INFO - Started process (PID=19197) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:15:36.052+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-06-17T04:15:36.054+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:15:36.054+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:15:36.065+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:15:36.065+0300] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-06-17T04:15:36.066+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:15:36.087+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:15:36.087+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:15:36.102+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:15:36.101+0300] {dag.py:3696} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-06-17T04:15:36.142+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.100 seconds
+[2025-06-17T04:16:31.574+0300] {processor.py:157} INFO - Started process (PID=19280) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:16:31.577+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-06-17T04:16:31.578+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:16:31.578+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:16:31.589+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:16:31.589+0300] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-06-17T04:16:31.590+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:16:31.611+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:16:31.610+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:16:31.640+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:16:31.640+0300] {dag.py:3696} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-06-17T04:16:31.669+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.107 seconds
+[2025-06-17T04:17:27.655+0300] {processor.py:157} INFO - Started process (PID=19334) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:17:27.662+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-06-17T04:17:27.666+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:17:27.664+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:17:27.698+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:17:27.697+0300] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-06-17T04:17:27.700+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:17:27.740+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:17:27.739+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:17:27.756+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:17:27.756+0300] {dag.py:3696} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-06-17T04:17:27.794+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.149 seconds
+[2025-06-17T04:18:24.469+0300] {processor.py:157} INFO - Started process (PID=19401) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:18:24.478+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-06-17T04:18:24.481+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:18:24.480+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:18:24.521+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:18:24.520+0300] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-06-17T04:18:24.523+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:18:24.587+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:18:24.586+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:18:24.636+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:18:24.635+0300] {dag.py:3696} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-06-17T04:18:24.736+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.276 seconds
+[2025-06-17T04:19:24.517+0300] {processor.py:157} INFO - Started process (PID=19494) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:19:24.521+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-06-17T04:19:24.525+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:19:24.523+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:19:24.553+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:19:24.553+0300] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-06-17T04:19:24.556+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:19:24.584+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:19:24.584+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:19:24.600+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:19:24.600+0300] {dag.py:3696} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-06-17T04:19:24.646+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.139 seconds
+[2025-06-17T04:20:16.718+0300] {processor.py:157} INFO - Started process (PID=19561) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:20:16.720+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-06-17T04:20:16.723+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:20:16.722+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:20:16.740+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:20:16.740+0300] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-06-17T04:20:16.741+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:20:16.775+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:20:16.774+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:20:16.798+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:20:16.798+0300] {dag.py:3696} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-06-17T04:20:16.841+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.128 seconds
+[2025-06-17T04:21:09.553+0300] {processor.py:157} INFO - Started process (PID=19623) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:21:09.556+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-06-17T04:21:09.559+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:21:09.558+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:21:09.570+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:21:09.569+0300] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-06-17T04:21:09.570+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:21:09.591+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:21:09.591+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:21:09.604+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:21:09.604+0300] {dag.py:3696} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-06-17T04:21:09.652+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.110 seconds
+[2025-06-17T04:22:07.505+0300] {processor.py:157} INFO - Started process (PID=19716) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:22:07.508+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-06-17T04:22:07.511+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:22:07.510+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:22:07.526+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:22:07.526+0300] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-06-17T04:22:07.527+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:22:07.548+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:22:07.548+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:22:07.562+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:22:07.561+0300] {dag.py:3696} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-06-17T04:22:07.588+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.093 seconds
+[2025-06-17T04:23:05.026+0300] {processor.py:157} INFO - Started process (PID=19801) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:23:05.030+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-06-17T04:23:05.032+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:23:05.031+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:23:05.045+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:23:05.044+0300] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-06-17T04:23:05.045+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:23:05.068+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:23:05.068+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:23:05.082+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:23:05.082+0300] {dag.py:3696} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-06-17T04:23:05.115+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.095 seconds
+[2025-06-17T04:24:00.968+0300] {processor.py:157} INFO - Started process (PID=19872) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:24:00.970+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-06-17T04:24:00.972+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:24:00.971+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:24:00.987+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:24:00.987+0300] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-06-17T04:24:00.989+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:24:01.022+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:24:01.022+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:24:01.035+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:24:01.035+0300] {dag.py:3696} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-06-17T04:24:01.075+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.119 seconds
+[2025-06-17T04:25:31.757+0300] {processor.py:157} INFO - Started process (PID=19997) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:25:31.759+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-06-17T04:25:31.760+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:25:31.759+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:25:31.773+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:25:31.772+0300] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-06-17T04:25:31.773+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:25:31.811+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:25:31.811+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:25:31.836+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:25:31.836+0300] {dag.py:3696} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-06-17T04:25:31.883+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.131 seconds
+[2025-06-17T04:26:26.827+0300] {processor.py:157} INFO - Started process (PID=20049) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:26:26.830+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-06-17T04:26:26.834+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:26:26.833+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:26:26.857+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:26:26.857+0300] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-06-17T04:26:26.858+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:26:26.901+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:26:26.900+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:26:26.925+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:26:26.924+0300] {dag.py:3696} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-06-17T04:26:26.991+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.172 seconds
+[2025-06-17T04:27:18.660+0300] {processor.py:157} INFO - Started process (PID=20097) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:27:18.663+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-06-17T04:27:18.666+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:27:18.665+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:27:18.686+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:27:18.685+0300] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-06-17T04:27:18.687+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:27:18.708+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:27:18.708+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:27:18.724+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:27:18.723+0300] {dag.py:3696} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-06-17T04:27:18.781+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.131 seconds
+[2025-06-17T04:28:08.465+0300] {processor.py:157} INFO - Started process (PID=20177) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:28:08.467+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-06-17T04:28:08.469+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:28:08.468+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:28:08.484+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:28:08.484+0300] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-06-17T04:28:08.485+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:28:08.510+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:28:08.510+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:28:08.525+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:28:08.525+0300] {dag.py:3696} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-06-17T04:28:08.556+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.096 seconds
+[2025-06-17T04:28:59.727+0300] {processor.py:157} INFO - Started process (PID=20233) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:28:59.730+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-06-17T04:28:59.733+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:28:59.732+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:28:59.756+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:28:59.756+0300] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-06-17T04:28:59.757+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:28:59.778+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:28:59.778+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:28:59.791+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:28:59.791+0300] {dag.py:3696} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-06-17T04:28:59.837+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.120 seconds
+[2025-06-17T04:30:02.148+0300] {processor.py:157} INFO - Started process (PID=20298) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:30:02.149+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-06-17T04:30:02.151+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:30:02.150+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:30:02.164+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:30:02.164+0300] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-06-17T04:30:02.165+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:30:02.190+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:30:02.190+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:30:02.206+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:30:02.206+0300] {dag.py:3696} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-06-17T04:30:02.241+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.099 seconds
+[2025-06-17T04:31:01.086+0300] {processor.py:157} INFO - Started process (PID=20359) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:31:01.092+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-06-17T04:31:01.094+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:31:01.093+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:31:01.106+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:31:01.106+0300] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-06-17T04:31:01.107+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-06-17T04:31:01.132+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:31:01.131+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:31:01.146+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:31:01.146+0300] {dag.py:3696} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-06-17T04:31:01.188+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.107 seconds

@@ -1,0 +1,182 @@
+[2025-06-17T04:08:02.357+0300] {processor.py:157} INFO - Started process (PID=18715) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:08:02.359+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-06-17T04:08:02.361+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:08:02.360+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:08:02.378+0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:08:02.415+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:08:02.415+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:08:02.446+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:08:02.446+0300] {dag.py:3696} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-06-17T04:08:02.498+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.148 seconds
+[2025-06-17T04:09:00.234+0300] {processor.py:157} INFO - Started process (PID=18794) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:09:00.238+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-06-17T04:09:00.240+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:09:00.239+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:09:00.260+0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:09:00.307+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:09:00.307+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:09:00.343+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:09:00.342+0300] {dag.py:3696} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-06-17T04:09:00.406+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.183 seconds
+[2025-06-17T04:09:56.708+0300] {processor.py:157} INFO - Started process (PID=18845) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:09:56.710+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-06-17T04:09:56.712+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:09:56.711+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:09:56.730+0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:09:56.772+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:09:56.771+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:09:56.799+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:09:56.799+0300] {dag.py:3696} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-06-17T04:09:56.851+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.153 seconds
+[2025-06-17T04:10:55.678+0300] {processor.py:157} INFO - Started process (PID=18898) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:10:55.680+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-06-17T04:10:55.682+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:10:55.681+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:10:55.699+0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:10:55.741+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:10:55.740+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:10:55.769+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:10:55.768+0300] {dag.py:3696} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-06-17T04:10:55.825+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.157 seconds
+[2025-06-17T04:11:52.538+0300] {processor.py:157} INFO - Started process (PID=18952) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:11:52.541+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-06-17T04:11:52.543+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:11:52.542+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:11:52.566+0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:11:52.624+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:11:52.624+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:11:52.659+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:11:52.659+0300] {dag.py:3696} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-06-17T04:11:52.722+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.192 seconds
+[2025-06-17T04:12:50.109+0300] {processor.py:157} INFO - Started process (PID=19042) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:12:50.113+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-06-17T04:12:50.117+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:12:50.116+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:12:50.140+0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:12:50.191+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:12:50.190+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:12:50.220+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:12:50.220+0300] {dag.py:3696} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-06-17T04:12:50.292+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.196 seconds
+[2025-06-17T04:13:45.988+0300] {processor.py:157} INFO - Started process (PID=19094) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:13:45.991+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-06-17T04:13:45.994+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:13:45.993+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:13:46.012+0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:13:46.045+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:13:46.045+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:13:46.064+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:13:46.063+0300] {dag.py:3696} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-06-17T04:13:46.104+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.127 seconds
+[2025-06-17T04:14:46.322+0300] {processor.py:157} INFO - Started process (PID=19156) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:14:46.327+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-06-17T04:14:46.330+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:14:46.329+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:14:46.344+0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:14:46.374+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:14:46.374+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:14:46.387+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:14:46.387+0300] {dag.py:3696} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-06-17T04:14:46.414+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.104 seconds
+[2025-06-17T04:15:20.097+0300] {processor.py:157} INFO - Started process (PID=19183) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:15:20.100+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-06-17T04:15:20.103+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:15:20.102+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:15:20.129+0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:15:20.158+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:15:20.158+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:15:20.177+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:15:20.177+0300] {dag.py:3696} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-06-17T04:15:20.215+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.130 seconds
+[2025-06-17T04:16:17.637+0300] {processor.py:157} INFO - Started process (PID=19238) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:16:17.646+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-06-17T04:16:17.647+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:16:17.647+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:16:17.662+0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:16:17.706+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:16:17.706+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:16:17.733+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:16:17.732+0300] {dag.py:3696} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-06-17T04:16:17.786+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.153 seconds
+[2025-06-17T04:17:11.772+0300] {processor.py:157} INFO - Started process (PID=19320) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:17:11.775+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-06-17T04:17:11.776+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:17:11.776+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:17:11.785+0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:17:11.806+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:17:11.805+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:17:11.819+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:17:11.819+0300] {dag.py:3696} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-06-17T04:17:11.844+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.076 seconds
+[2025-06-17T04:18:08.902+0300] {processor.py:157} INFO - Started process (PID=19383) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:18:08.907+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-06-17T04:18:08.910+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:18:08.909+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:18:08.931+0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:18:08.980+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:18:08.979+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:18:09.013+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:18:09.013+0300] {dag.py:3696} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-06-17T04:18:09.082+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.190 seconds
+[2025-06-17T04:19:09.263+0300] {processor.py:157} INFO - Started process (PID=19461) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:19:09.265+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-06-17T04:19:09.267+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:19:09.266+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:19:09.284+0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:19:09.322+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:19:09.322+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:19:09.352+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:19:09.352+0300] {dag.py:3696} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-06-17T04:19:09.411+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.156 seconds
+[2025-06-17T04:20:01.369+0300] {processor.py:157} INFO - Started process (PID=19546) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:20:01.371+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-06-17T04:20:01.373+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:20:01.372+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:20:01.388+0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:20:01.431+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:20:01.431+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:20:01.462+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:20:01.462+0300] {dag.py:3696} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-06-17T04:20:01.511+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.149 seconds
+[2025-06-17T04:20:53.644+0300] {processor.py:157} INFO - Started process (PID=19604) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:20:53.647+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-06-17T04:20:53.649+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:20:53.648+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:20:53.664+0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:20:53.683+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:20:53.683+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:20:53.697+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:20:53.697+0300] {dag.py:3696} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-06-17T04:20:53.725+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.092 seconds
+[2025-06-17T04:21:49.778+0300] {processor.py:157} INFO - Started process (PID=19692) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:21:49.781+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-06-17T04:21:49.784+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:21:49.783+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:21:49.805+0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:21:49.835+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:21:49.835+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:21:49.849+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:21:49.849+0300] {dag.py:3696} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-06-17T04:21:49.880+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.113 seconds
+[2025-06-17T04:22:47.892+0300] {processor.py:157} INFO - Started process (PID=19771) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:22:47.895+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-06-17T04:22:47.897+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:22:47.896+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:22:47.910+0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:22:47.929+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:22:47.929+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:22:47.943+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:22:47.943+0300] {dag.py:3696} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-06-17T04:22:47.986+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.106 seconds
+[2025-06-17T04:23:43.520+0300] {processor.py:157} INFO - Started process (PID=19849) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:23:43.522+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-06-17T04:23:43.523+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:23:43.522+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:23:43.531+0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:23:43.550+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:23:43.550+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:23:43.563+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:23:43.563+0300] {dag.py:3696} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-06-17T04:23:43.590+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.080 seconds
+[2025-06-17T04:25:03.432+0300] {processor.py:157} INFO - Started process (PID=19969) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:25:03.434+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-06-17T04:25:03.435+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:25:03.434+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:25:03.443+0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:25:03.465+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:25:03.464+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:25:03.480+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:25:03.480+0300] {dag.py:3696} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-06-17T04:25:03.506+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.079 seconds
+[2025-06-17T04:25:49.192+0300] {processor.py:157} INFO - Started process (PID=20012) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:25:49.194+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-06-17T04:25:49.197+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:25:49.196+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:25:49.215+0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:25:49.257+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:25:49.257+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:25:49.275+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:25:49.274+0300] {dag.py:3696} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-06-17T04:25:49.307+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.122 seconds
+[2025-06-17T04:26:42.119+0300] {processor.py:157} INFO - Started process (PID=20065) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:26:42.122+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-06-17T04:26:42.125+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:26:42.124+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:26:42.144+0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:26:42.164+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:26:42.164+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:26:42.178+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:26:42.178+0300] {dag.py:3696} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-06-17T04:26:42.211+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.103 seconds
+[2025-06-17T04:27:32.224+0300] {processor.py:157} INFO - Started process (PID=20109) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:27:32.226+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-06-17T04:27:32.227+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:27:32.227+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:27:32.243+0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:27:32.272+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:27:32.272+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:27:32.296+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:27:32.296+0300] {dag.py:3696} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-06-17T04:27:32.341+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.125 seconds
+[2025-06-17T04:28:22.885+0300] {processor.py:157} INFO - Started process (PID=20192) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:28:22.887+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-06-17T04:28:22.889+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:28:22.888+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:28:22.900+0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:28:22.928+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:28:22.927+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:28:22.946+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:28:22.946+0300] {dag.py:3696} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-06-17T04:28:22.988+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.112 seconds
+[2025-06-17T04:29:17.213+0300] {processor.py:157} INFO - Started process (PID=20250) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:29:17.215+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-06-17T04:29:17.218+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:29:17.217+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:29:17.239+0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:29:17.264+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:29:17.264+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:29:17.280+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:29:17.280+0300] {dag.py:3696} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-06-17T04:29:17.313+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.111 seconds
+[2025-06-17T04:30:16.746+0300] {processor.py:157} INFO - Started process (PID=20312) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:30:16.747+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-06-17T04:30:16.749+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:30:16.748+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:30:16.760+0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:30:16.784+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:30:16.784+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:30:16.800+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:30:16.800+0300] {dag.py:3696} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-06-17T04:30:16.839+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.100 seconds
+[2025-06-17T04:31:10.356+0300] {processor.py:157} INFO - Started process (PID=20372) to work on /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:31:10.359+0300] {processor.py:829} INFO - Processing file /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-06-17T04:31:10.362+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:31:10.361+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:31:10.379+0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-06-17T04:31:10.399+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:31:10.398+0300] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-06-17T04:31:10.412+0300] {logging_mixin.py:151} INFO - [2025-06-17T04:31:10.411+0300] {dag.py:3696} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-06-17T04:31:10.439+0300] {processor.py:179} INFO - Processing /home/qwerty/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.094 seconds
