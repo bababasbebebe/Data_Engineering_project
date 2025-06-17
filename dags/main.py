@@ -2,9 +2,12 @@ from datetime import datetime, timedelta
 from airflow import DAG
 from airflow.operators.python import PythonOperator
 from airflow.models import Variable
+import pandas as pd
+import numpy as np
 import logging
 import os
 
+# Задается путь к файлу
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RESULTS_DIR = os.path.join(BASE_DIR, 'results')
 os.makedirs(RESULTS_DIR, exist_ok=True)
@@ -22,15 +25,14 @@ default_args = {
     'email_on_retry': False,
 }
 
-
+# Таски для передачи аргументов между функциями.
 def load_data_task(**kwargs):
-    """Task для загрузки данных"""
     from etl.Load import load_data
     ti = kwargs['ti']
 
     features, target = load_data()
 
-    # Сохраняем в XCom для передачи между задачами
+    # Сохраняем в XCom для передачи между функциями
     ti.xcom_push(key='features', value=features.to_json())
     ti.xcom_push(key='target', value=target.to_json())
 
@@ -40,12 +42,10 @@ def load_data_task(**kwargs):
 
 
 def preprocess_task(**kwargs):
-    """Task для предобработки данных"""
     from etl.Preprocessing import preprocess
-    import pandas as pd
     ti = kwargs['ti']
 
-    # Получаем данные из предыдущей задачи
+    # Получаем данные из предыдущей функции
     features = pd.read_json(ti.xcom_pull(task_ids='load_data', key='features'))
     target = pd.read_json(ti.xcom_pull(task_ids='load_data', key='target'))
 
@@ -60,9 +60,7 @@ def preprocess_task(**kwargs):
 
 
 def train_model_task(**kwargs):
-    """Task для обучения модели"""
     from etl.Training import train_model
-    import numpy as np
     ti = kwargs['ti']
 
     # Получаем данные
@@ -79,9 +77,7 @@ def train_model_task(**kwargs):
 
 
 def evaluate_model_task(**kwargs):
-    """Task для оценки модели"""
     from etl.Evaluation import evaluate
-    import numpy as np
     ti = kwargs['ti']
 
     # Получаем данные
