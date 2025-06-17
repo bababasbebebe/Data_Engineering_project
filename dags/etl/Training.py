@@ -16,6 +16,8 @@ def train_model(X_train, y_train, model_name: str):
         joblib.dump(model, model_name + '.pkl')
         logger.info(f"Модель {model_name} сохранена. ")
 
+        return model_name + '.pkl'
+        
     except Exception as e:
         logger.error(f"Ошибка при обучении модели: {str(e)}")
         raise
