@@ -1,14 +1,14 @@
 # Data_Engineering_project
-Экзаменационная работа 
+*Работа выполнялась на виртуальной машине Linux Ubuntu. Airflow запускался через UI вебсервера, файлы логов и результатов пайплайна сохранялись на локальном диске.*
 
 ## 0. Логика репозитория
 - [**dags/**](./dags/):
-  - Файл [main.py](./dags/main.py) с оркестрацией пайплайна.
+  - [main.py](./dags/main.py) с оркестрацией пайплайна.
   - [etl/](./dags/etl) с файлами ETL-компонентов:
-    - Файл [Load.py](./dags/etl/Load.py) с функцией загрузки и сохранения информации о данных.
-    - Файл [Preprocessing.py](./dags/etl/Preprocessing.py) с функцией предобработки данных и разбития на выборки.
-    - Файл [Training.py](./dags/etl/Training.py) с функцией обучения и сохранения модели.
-    - Файл [Evaluation.py](./dags/etl/Evaluation.py) с функцией тестирования модели, вычисления и сохранения метрик.
+    - [Load.py](./dags/etl/Load.py) с функцией загрузки.
+    - [Preprocessing.py](./dags/etl/Preprocessing.py) с функцией предобработки данных и разбития на выборки.
+    - [Training.py](./dags/etl/Training.py) с функцией обучения и сохранения модели.
+    - [Evaluation.py](./dags/etl/Evaluation.py) с функцией тестирования модели, вычисления и сохранения метрик.
 - [**logs/**](./logs/):
   - [dag_id=breast_cancer_ml_pipeline/](./logs/dag_id=breast_cancer_ml_pipeline/) с сохранением логов на каждом этапе ETL:
     - [task_id=load_data/](./logs/dag_id=breast_cancer_ml_pipeline/run_id=scheduled__2025-06-15T00_00_00+00_00/task_id=load_data/) - логи при загрузки данных.
@@ -22,12 +22,22 @@
   - [features.csv](./results/features.csv) - сохраненные при загрузки признаки датасета.
   - [target.csv](./results/target.csv) - сохраненная при загрузке целевая переменная датасета.
   - [model_metrics.json](./results/model_metrics.json) - сохраненные метрики.
+  - [features_info.csv](./results/features_info.csv) - .info признаков.
+  - [features_describe.csv](./results/features_describe.csv) - .describe признаков.
+  - [figure.pdf](./results/figure.pdf) - распределение целевой переменной.
+- [webserver_config.py](./webserver_config.py) - файл конфигурации вебсервера airflow.
+- [requirements.txt](./requirements.txt).
       
 ## 1. Планирование пайплайна.
+Решается задача бинарной классификации наличия рака груди.
+
 ### Описание датасета.
-
+- Датасет размером 569x30. Целевой переменной является target с бинарным значением наличия рака груди.
+- Наличие рака в целевой переменной распределно в соотношении 2 к 1.
+![image](./results/figure.pdf)
 ### Описание структуры пайплайна.
-
+- Структура пайплана состоит из 4-х ETL компонентов:
+  - Загрузка данных и сохранение признаков и  
 ### Схема пайплайна.
 
 
