@@ -118,7 +118,7 @@
 - При возникновении ошибки on_failure_callback, task_failure_alert логирует ошибку для определенного таска.
 
 ## 4. Выгрузка результатов на локальный диск.
-*Все результаты выгружаются в локальную папку results/*
+*Все результаты выгружаются в локальную папку [results/](./results/)*
 
 ### /results/
 - [breast_cancer_model.pkl](./results/breast_cancer_model.pkl) - сохраненная модель.
