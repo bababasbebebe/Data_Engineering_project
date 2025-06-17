@@ -1,0 +1,31 @@
+,Column,Non-Null Count,Dtype
+0,mean radius,569,float64
+1,mean texture,569,float64
+2,mean perimeter,569,float64
+3,mean area,569,float64
+4,mean smoothness,569,float64
+5,mean compactness,569,float64
+6,mean concavity,569,float64
+7,mean concave points,569,float64
+8,mean symmetry,569,float64
+9,mean fractal dimension,569,float64
+10,radius error,569,float64
+11,texture error,569,float64
+12,perimeter error,569,float64
+13,area error,569,float64
+14,smoothness error,569,float64
+15,compactness error,569,float64
+16,concavity error,569,float64
+17,concave points error,569,float64
+18,symmetry error,569,float64
+19,fractal dimension error,569,float64
+20,worst radius,569,float64
+21,worst texture,569,float64
+22,worst perimeter,569,float64
+23,worst area,569,float64
+24,worst smoothness,569,float64
+25,worst compactness,569,float64
+26,worst concavity,569,float64
+27,worst concave points,569,float64
+28,worst symmetry,569,float64
+29,worst fractal dimension,569,float64
