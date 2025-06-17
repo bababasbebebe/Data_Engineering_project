@@ -15,15 +15,20 @@ def load_data():
         logger.info(f"Начало загрузки данных load_breast_cancer")
 
         features = pd.DataFrame(load_breast_cancer().data, columns=load_breast_cancer().feature_names)
-
+        if features.empty:
+            raise ValueError("Данные пусты!")
+            
         # Сохранение info
         pd.DataFrame({"Column": features.columns, "Non-Null Count": len(features) - features.isnull().sum().values,
                       "Dtype": features.dtypes.values}).to_csv(os.path.join(RESULTS_DIR, 'features_info.csv'), index=False)
-
+        
         # Сохранение describe
         features.describe().to_csv(os.path.join(RESULTS_DIR, 'features_describe.csv'), index=False)
 
         target = pd.DataFrame(load_breast_cancer()['target'], columns=['target'])
+        if target.empty:
+            raise ValueError("Данные пусты!")
+            
         target.hist()
 
         # Сохранение распределения target
