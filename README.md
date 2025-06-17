@@ -32,7 +32,7 @@
 Решается задача бинарной классификации наличия рака груди.
 
 ### Описание датасета.
-*[Датасет](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html) числовых характеристик снимка для классификации наличия рака груди. Описательные харакетристики в [features_info.csv](./results/features_info.csv), [features_describe.csv](./results/features_describe.csv), [figure.pdf](./results/figure.pdf) файлах.*
+*[Датасет](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html) числовых характеристик, полученных со снимка груди, для классификации наличия рака груди. Описательные харакетристики в [features_info.csv](./results/features_info.csv), [features_describe.csv](./results/features_describe.csv), [figure.pdf](./results/figure.pdf) файлах.*
 - Датасет размером 569x30. Целевой переменной является target с бинарным значением наличия рака груди.
 - Наличие рака в целевой переменной распределно в соотношении 2 к 1.
 - Признаки имеют тип данных float64.
